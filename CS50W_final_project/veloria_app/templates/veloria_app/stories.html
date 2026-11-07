@@ -1,0 +1,107 @@
+{% extends "veloria_app/layout.html" %}
+{% load static %}
+{% block content %}
+<div class="container mx-auto px-4 py-6">
+
+  <!-- Background Image -->
+  <div class="fixed inset-0 -z-10 bg-cover bg-center">
+    <img src="{% static 'veloria_app/images/bg3.jpg' %}" 
+         alt="Stories Background"
+         class="w-full h-full object-cover">
+  </div>
+
+  <!-- Level Buttons -->
+  <div class="mt-24">
+    <div class="flex flex-wrap justify-center gap-4 mb-8">
+      <button id="A1-btn" class="px-6 py-2 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition">A1</button>
+      <button id="A2-btn" class="px-6 py-2 bg-green-600 text-white rounded-lg shadow hover:bg-green-700 transition">A2</button>
+      <button id="B1-btn" class="px-6 py-2 bg-yellow-600 text-white rounded-lg shadow hover:bg-yellow-700 transition">B1</button>
+      <button id="B2-btn" class="px-6 py-2 bg-purple-600 text-white rounded-lg shadow hover:bg-purple-700 transition">B2</button>
+      <button id="C1-btn" class="px-6 py-2 bg-red-600 text-white rounded-lg shadow hover:bg-red-700 transition">C1</button>
+    </div>
+  </div>
+
+  <!-- Displaying Stories -->
+  <div id="level-div-1" class="flex flex-col items-center space-y-10" style="display:none;">
+    {% for story in a1_stories %}
+      <a href="{% url 'story' story.id %}" class="w-3/4">
+        <div class="w-full h-80 bg-gradient-to-b from-[#d4c4a8] to-[#fdf6e3] 
+                    rounded-lg shadow-lg overflow-hidden flex items-center justify-center relative">
+          <div class="absolute left-0 top-0 h-full w-3 bg-[#b89b72] shadow-inner"></div>
+          <h3 class="text-center text-2xl font-serif text-[#3b2f2f] px-6">
+            {{ story.title }}
+          </h3>
+        </div>
+      </a>
+    {% empty %}
+      <p class="text-center text-black italic w-full">No stories available yet.</p>
+    {% endfor %}
+  </div>
+
+  <!-- Repeat same style for other levels -->
+  <div id="level-div-2" class="flex flex-col items-center space-y-10" style="display:none;">
+    {% for story in a2_stories %}
+      <a href="{% url 'story' story.id %}" class="w-3/4">
+        <div class="w-full h-80 bg-gradient-to-b from-[#d4c4a8] to-[#fdf6e3] 
+                    rounded-lg shadow-lg overflow-hidden flex items-center justify-center relative">
+          <div class="absolute left-0 top-0 h-full w-3 bg-[#b89b72] shadow-inner"></div>
+          <h3 class="text-center text-2xl font-serif text-[#3b2f2f] px-6">
+            {{ story.title }}
+          </h3>
+        </div>
+      </a>
+    {% empty %}
+      <p class="text-center text-black italic w-full">No stories available yet.</p>
+    {% endfor %}
+  </div>
+
+  <div id="level-div-3" class="flex flex-col items-center space-y-10" style="display:none;">
+    {% for story in b1_stories %}
+      <a href="{% url 'story' story.id %}" class="w-3/4">
+        <div class="w-full h-80 bg-gradient-to-b from-[#d4c4a8] to-[#fdf6e3] 
+                    rounded-lg shadow-lg overflow-hidden flex items-center justify-center relative">
+          <div class="absolute left-0 top-0 h-full w-3 bg-[#b89b72] shadow-inner"></div>
+          <h3 class="text-center text-2xl font-serif text-[#3b2f2f] px-6">
+            {{ story.title }}
+          </h3>
+        </div>
+      </a>
+    {% empty %}
+      <p class="text-center text-black italic w-full">No stories available yet.</p>
+    {% endfor %}
+  </div>
+
+  <div id="level-div-4" class="flex flex-col items-center space-y-10" style="display:none;">
+    {% for story in b2_stories %}
+      <a href="{% url 'story' story.id %}" class="w-3/4">
+        <div class="w-full h-80 bg-gradient-to-b from-[#d4c4a8] to-[#fdf6e3] 
+                    rounded-lg shadow-lg overflow-hidden flex items-center justify-center relative">
+          <div class="absolute left-0 top-0 h-full w-3 bg-[#b89b72] shadow-inner"></div>
+          <h3 class="text-center text-2xl font-serif text-[#3b2f2f] px-6">
+            {{ story.title }}
+          </h3>
+        </div>
+      </a>
+    {% empty %}
+      <p class="text-center text-black italic w-full">No stories available yet.</p>
+    {% endfor %}
+  </div>
+
+  <div id="level-div-5" class="flex flex-col items-center space-y-10" style="display:none;">
+    {% for story in c1_stories %}
+      <a href="{% url 'story' story.id %}" class="w-3/4">
+        <div class="w-full h-80 bg-gradient-to-b from-[#d4c4a8] to-[#fdf6e3] 
+                    rounded-lg shadow-lg overflow-hidden flex items-center justify-center relative">
+          <div class="absolute left-0 top-0 h-full w-3 bg-[#b89b72] shadow-inner"></div>
+          <h3 class="text-center text-2xl font-serif text-[#3b2f2f] px-6">
+            {{ story.title }}
+          </h3>
+        </div>
+      </a>
+    {% empty %}
+      <p class="text-center text-black italic w-full">No stories available yet.</p>
+    {% endfor %}
+  </div>
+
+</div>
+{% endblock %}

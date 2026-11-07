@@ -1,0 +1,58 @@
+{% extends "veloria_app/layout.html" %}
+{% load static %}
+
+{% block content %}
+<section class="relative h-screen flex items-center justify-center overflow-hidden">
+
+  <!-- Background Image -->
+  <div class="absolute inset-0">
+    <img src="{% static 'veloria_app/images/register.jpg' %}" 
+         alt="Register Background"
+         class="w-full h-full object-cover">
+  </div>
+
+  <!-- Optional overlay for readability -->
+  <div class="absolute inset-0 bg-black bg-opacity-30"></div>
+
+  <!-- Centered Login Form -->
+  <div class="relative z-10 text-center">
+    <h1 class="text-4xl font-bold mb-6 text-white">Login to Veloria</h1>
+    <form method="post" action="{% url 'register' %}" class="space-y-6">
+      {% csrf_token %}
+      
+      <!-- Username -->
+      <div>
+        <label for="username" class="block text-white text-sm font-semibold mb-2">Username</label>
+        <input type="text" id="username" name="username" required
+               class="w-64 bg-gray-100 rounded border border-gray-300 focus:ring-2 focus:ring-indigo-300 focus:border-indigo-500 text-gray-800 py-2 px-3 leading-tight outline-none transition-colors duration-200 ease-in-out">
+      </div>
+
+      <!-- E-mail-->
+       <div>
+        <label for="email" class="block text-white text-sm font-semibold mb-2">E-mail</label>
+        <input type="email" id="email" name="email" required
+               class="w-64 bg-gray-100 rounded border border-gray-300 focus:ring-2 focus:ring-indigo-300 focus:border-indigo-500 text-gray-800 py-2 px-3 leading-tight outline-none transition-colors duration-200 ease-in-out">
+      </div>
+      
+      <!-- Password -->
+      <div>
+        <label for="password" class="block text-white text-sm font-semibold mb-2">Password</label>
+        <input type="password" id="password" name="password" required
+               class="w-64 bg-gray-100 rounded border border-gray-300 focus:ring-2 focus:ring-indigo-300 focus:border-indigo-500 text-gray-800 py-2 px-3 leading-tight outline-none transition-colors duration-200 ease-in-out">
+      </div>
+      <!-- Confirmation -->
+      <div>
+        <label for="confirmation" class="block text-white text-sm font-semibold mb-2">Confirmation</label>
+        <input type="password" id="confirmation" name="confirmation" required
+               class="w-64 bg-gray-100 rounded border border-gray-300 focus:ring-2 focus:ring-indigo-300 focus:border-indigo-500 text-gray-800 py-2 px-3 leading-tight outline-none transition-colors duration-200 ease-in-out">
+      </div>
+      
+      <!-- Submit Button -->
+      <button type="submit"
+              class="w-64 bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline transition duration-200">
+        Register
+      </button>
+    </form>
+  </div>
+</section>
+{% endblock %}

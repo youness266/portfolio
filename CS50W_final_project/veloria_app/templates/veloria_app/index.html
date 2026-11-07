@@ -1,0 +1,38 @@
+{% extends "veloria_app/layout.html" %}
+{% load static %}
+{% block content %}
+<div class="relative w-full h-screen overflow-hidden">
+  <!-- Background Image -->
+  <div class="fixed inset-0 -z-10 bg-cover bg-center">
+    <img src="{% static 'veloria_app/images/bg1.jpg' %}" 
+         alt="Home Background"
+         class="w-full h-full object-cover">
+  </div>
+
+  <div class="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-40 text-center px-6">
+
+    <h1 class="text-3xl sm:text-5xl font-serif text-white mb-12">
+      Every story brings you closer to the language
+    </h1>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 w-full max-w-4xl">
+      
+      <!-- Read Stories -->
+      <a href="{% url 'stories' %}" 
+         class="block bg-blue-600 bg-opacity-80 hover:bg-opacity-100 rounded-lg shadow-lg p-8 text-white transition duration-300">
+        <h3 class="text-2xl font-bold mb-4">📖 Read Stories</h3>
+        <p>Dive into stories by level and practice reading.</p>
+      </a>
+
+      <!-- Vocabulary -->
+      <a href="{% url 'vocabulary' %}" 
+         class="block bg-green-600 bg-opacity-80 hover:bg-opacity-100 rounded-lg shadow-lg p-8 text-white transition duration-300">
+        <h3 class="text-2xl font-bold mb-4">📝 Vocabulary</h3>
+        <p>Review and grow your personal sentence list.</p>
+      </a>
+
+    </div>
+  </div>
+
+</div>
+{% endblock %}

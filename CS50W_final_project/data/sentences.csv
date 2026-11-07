@@ -1,0 +1,471 @@
+id,story_id,sentence,translation
+1,3,Ich wache jeden Morgen um sieben Uhr auf,I wake up every morning at seven o’clock
+2,3,Ich wasche mein Gesicht und putze meine Zähne,I wash my face and brush my teeth
+3,3,Zum Frühstück esse ich Brot mit Marmelade,For breakfast I eat bread with jam
+4,3,Ich trinke ein Glas Milch,I drink a glass of milk
+5,3,Dann gehe ich zur Arbeit,Then I go to work
+6,3,Ich fahre mit dem Bus,I take the bus
+7,3,Am Mittag esse ich mit meinen Kollegen,At noon I eat with my colleagues
+8,3,Am Nachmittag lese ich ein Buch,In the afternoon I read a book
+9,3,Am Abend sehe ich fern,In the evening I watch TV
+10,3,Um zehn Uhr gehe ich ins Bett,At ten o’clock I go to bed
+11,4,Anna geht am Samstag in den Supermarkt,Anna goes to the supermarket on Saturday
+12,4,Sie nimmt einen Einkaufswagen,She takes a shopping cart
+13,4,Zuerst kauft sie frisches Obst,First she buys fresh fruit
+14,4,Sie legt Äpfel und Bananen hinein,She puts apples and bananas inside
+15,4,Dann geht sie zur Brot-Abteilung,Then she goes to the bread section
+16,4,Sie nimmt ein großes Brot,She takes a big loaf of bread
+17,4,In der Milch-Abteilung kauft sie Käse,In the dairy section she buys cheese
+18,4,An der Kasse wartet sie lange,At the checkout she waits a long time
+19,4,Sie bezahlt mit Bargeld,She pays with cash
+20,4,Zu Hause räumt sie die Einkäufe in den Kühlschrank,At home she puts the groceries in the fridge
+21,5,Tom zieht in eine neue Wohnung,Tom moves into a new apartment
+22,5,Die Wohnung liegt im dritten Stock,The apartment is on the third floor
+23,5,Sie hat ein großes Wohnzimmer,It has a big living room
+24,5,Die Küche ist klein aber modern,The kitchen is small but modern
+25,5,Tom stellt sein Bett ins Schlafzimmer,Tom puts his bed in the bedroom
+26,5,Er hängt Bilder an die Wand,He hangs pictures on the wall
+27,5,Im Badezimmer gibt es eine Dusche,In the bathroom there is a shower
+28,5,Tom kauft einen neuen Tisch,Tom buys a new table
+29,5,Am Abend lädt er Freunde ein,In the evening he invites friends
+30,5,Alle finden die Wohnung sehr schön,Everyone thinks the apartment is very nice
+31,6,Am Sonntag gehen Lisa und Max in den Park,On Sunday Lisa and Max go to the park
+32,6,Sie nehmen eine Decke mit,They take a blanket with them
+33,6,In einem Korb haben sie Essen,In a basket they have food
+34,6,Es gibt Brot, Käse und Obst,There is bread, cheese and fruit
+35,6,Sie setzen sich unter einen Baum,They sit down under a tree
+36,6,Die Sonne scheint warm,The sun is shining warmly
+37,6,Max spielt Gitarre,Max plays guitar
+38,6,Lisa liest ein Buch,Lisa reads a book
+39,6,Ein Hund läuft vorbei,A dog runs past
+40,6,Am Abend packen sie alles zusammen,In the evening they pack everything up
+41,7,Peter fühlt sich seit zwei Tagen krank,Peter has felt sick for two days
+42,7,Er hat Kopfschmerzen und Husten,He has headaches and a cough
+43,7,Am Morgen ruft er den Arzt an,In the morning he calls the doctor
+44,7,Er bekommt einen Termin um zehn Uhr,He gets an appointment at ten o’clock
+45,7,Im Wartezimmer sitzen viele Patienten,In the waiting room many patients are sitting
+46,7,Der Arzt untersucht Peter gründlich,The doctor examines Peter carefully
+47,7,Er misst die Temperatur und hört die Lunge ab,He measures the temperature and listens to the lungs
+48,7,Der Arzt sagt, es ist eine Erkältung,The doctor says it is a cold
+49,7,Peter bekommt Medikamente aus der Apotheke,Peter gets medicine from the pharmacy
+50,7,Zuhause ruht er sich aus und trinkt Tee,At home he rests and drinks tea
+51,8,Am Freitagabend treffen sich Mia und ihre Freunde,On Friday evening Mia meets her friends
+52,8,Sie gehen zusammen ins Kino,They go to the cinema together
+53,8,Der Film ist sehr lustig,The movie is very funny
+54,8,Nach dem Kino essen sie Pizza,After the cinema they eat pizza
+55,8,Am Samstag machen sie einen Spaziergang,On Saturday they go for a walk
+56,8,Sie besuchen einen kleinen Markt,They visit a small market
+57,8,Mia kauft Blumen für ihre Mutter,Mia buys flowers for her mother
+58,8,Am Nachmittag spielen sie Fußball,In the afternoon they play football
+59,8,Am Abend hören sie Musik und tanzen,In the evening they listen to music and dance
+60,8,Am Sonntag ruht sich die Gruppe aus,On Sunday the group rests
+61,9,Am Samstag geht die Familie Müller in den Zoo,On Saturday the Müller family goes to the zoo
+62,9,Die Kinder sind sehr aufgeregt,The children are very excited
+63,9,Zuerst sehen sie die Elefanten,First they see the elephants
+64,9,Die Elefanten essen Gras und trinken Wasser,The elephants eat grass and drink water
+65,9,Dann besuchen sie die Affen,Then they visit the monkeys
+66,9,Die Affen springen und spielen,The monkeys jump and play
+67,9,Später sehen sie die Löwen,Later they see the lions
+68,9,Die Löwen liegen in der Sonne,The lions lie in the sun
+69,9,Die Kinder machen viele Fotos,The children take many photos
+70,9,Am Abend fahren sie glücklich nach Hause,In the evening they drive home happily
+71,10,Die Klasse fährt am Dienstag ins Museum,The class goes to the museum on Tuesday
+72,10,Die Schüler sind sehr gespannt,The students are very excited
+73,10,Im Bus sitzen alle zusammen,In the bus everyone sits together
+74,10,Der Lehrer erklärt die Regeln,The teacher explains the rules
+75,10,Im Museum sehen sie alte Bilder,In the museum they see old paintings
+76,10,Ein Guide erzählt interessante Geschichten,A guide tells interesting stories
+77,10,Die Kinder stellen viele Fragen,The children ask many questions
+78,10,In der Pause essen sie ihre Brote,During the break they eat their sandwiches
+79,10,Am Nachmittag sehen sie eine Ausstellung,In the afternoon they see an exhibition
+80,10,Am Abend kommen sie müde nach Hause,In the evening they come home tired
+81,11,Sophie geht am Samstagabend ins Restaurant,Sophie goes to the restaurant on Saturday evening
+82,11,Sie hat einen Tisch für zwei Personen reserviert,She has reserved a table for two people
+83,11,Der Kellner bringt die Speisekarte,The waiter brings the menu
+84,11,Sophie bestellt eine Suppe als Vorspeise,Sophie orders a soup as a starter
+85,11,Ihr Freund nimmt einen Salat,Her friend takes a salad
+86,11,Zum Hauptgericht wählt Sophie Fisch,For the main course Sophie chooses fish
+87,11,Ihr Freund bestellt ein Steak,Her friend orders a steak
+88,11,Sie trinken Wasser und ein Glas Wein,They drink water and a glass of wine
+89,11,Zum Dessert essen sie Kuchen,For dessert they eat cake
+90,11,Am Ende bezahlen sie und gehen zufrieden nach Hause,At the end they pay and go home satisfied
+91,12,Lena plant eine Überraschungsparty für ihre Freundin,Lena plans a surprise party for her friend
+92,12,Sie lädt viele Leute ein,She invites many people
+93,12,Alle sollen ein kleines Geschenk mitbringen,Everyone should bring a small gift
+94,12,Am Nachmittag dekoriert Lena das Wohnzimmer,In the afternoon Lena decorates the living room
+95,12,Sie hängt Luftballons und Girlanden auf,She hangs balloons and garlands
+96,12,Die Gäste kommen pünktlich,The guests arrive on time
+97,12,Alle verstecken sich hinter den Möbeln,Everyone hides behind the furniture
+98,12,Die Freundin kommt nach Hause,The friend comes home
+99,12,Alle rufen laut „Überraschung!“,Everyone shouts loudly “Surprise!”
+100,12,Die Freundin ist sehr glücklich und bedankt sich,The friend is very happy and says thank you
+101,13,Paul kauft Karten für sein erstes Konzert,Paul buys tickets for his first concert
+102,13,Er ist sehr aufgeregt,He is very excited
+103,13,Das Konzert findet in einer großen Halle statt,The concert takes place in a big hall
+104,13,Viele Menschen warten vor dem Eingang,Many people wait in front of the entrance
+105,13,Paul geht mit seinen Freunden hinein,Paul goes inside with his friends
+106,13,Die Musik beginnt laut und schnell,The music starts loud and fast
+107,13,Die Band spielt bekannte Lieder,The band plays well-known songs
+108,13,Alle singen und tanzen mit,Everyone sings and dances along
+109,13,Paul macht Fotos mit seinem Handy,Paul takes photos with his phone
+110,13,Am Ende ist er müde aber glücklich,At the end he is tired but happy
+111,14,Im Sommer fährt die Familie Schmidt ans Meer,In summer the Schmidt family goes to the sea
+112,14,Sie wohnen in einem kleinen Hotel,They stay in a small hotel
+113,14,Am Morgen gehen sie zum Strand,In the morning they go to the beach
+114,14,Die Kinder bauen eine Sandburg,The children build a sandcastle
+115,14,Die Eltern lesen Bücher unter dem Sonnenschirm,The parents read books under the sunshade
+116,14,Am Mittag essen sie Fisch im Restaurant,At noon they eat fish in the restaurant
+117,14,Nach dem Essen schwimmen alle im Meer,After lunch everyone swims in the sea
+118,14,Am Abend machen sie einen Spaziergang,In the evening they take a walk
+119,14,Sie kaufen Eis in einer kleinen Bar,They buy ice cream in a small bar
+120,14,Am letzten Tag machen sie viele Fotos,On the last day they take many photos
+121,15,Clara möchte ein neues Hobby ausprobieren,Clara wants to try a new hobby
+122,15,Sie entscheidet sich für das Malen,She decides on painting
+123,15,Am Samstag kauft sie Farben und Pinsel,On Saturday she buys paints and brushes
+124,15,Zu Hause stellt sie eine Leinwand auf,At home she sets up a canvas
+125,15,Zuerst malt sie einfache Formen,First she paints simple shapes
+126,15,Später probiert sie bunte Blumen,Later she tries colorful flowers
+127,15,Manchmal fällt es ihr schwer,Sometimes it is difficult for her
+128,15,Doch sie übt jeden Tag,But she practices every day
+129,15,Nach einer Woche hängt sie ihr erstes Bild auf,After a week she hangs up her first picture
+130,15,Sie ist stolz auf ihr neues Hobby,She is proud of her new hobby
+131,16,Familie Weber zieht in eine neue Stadt,The Weber family moves to a new city
+132,16,Sie packen viele Kisten mit Kleidung und Büchern,They pack many boxes with clothes and books
+133,16,Am Morgen kommt ein großer Lastwagen,In the morning a big truck arrives
+134,16,Die Möbel werden eingeladen,The furniture is loaded
+135,16,Die Kinder verabschieden sich von ihren Freunden,The children say goodbye to their friends
+136,16,Die Fahrt dauert mehrere Stunden,The journey takes several hours
+137,16,In der neuen Stadt suchen sie die Wohnung,In the new city they look for the apartment
+138,16,Die Nachbarn helfen beim Tragen,The neighbors help with carrying
+139,16,Am Abend essen alle zusammen Pizza,In the evening everyone eats pizza together
+140,16,Die Familie freut sich auf das neue Leben,The family looks forward to the new life
+141,17,Die Klasse fährt im Frühling nach München,The class goes to Munich in spring
+142,17,Alle Schüler sind sehr gespannt,All the students are very excited
+143,17,Sie reisen mit dem Zug,They travel by train
+144,17,Im Zug spielen sie Karten,On the train they play cards
+145,17,In München besuchen sie ein Museum,In Munich they visit a museum
+146,17,Der Lehrer erklärt viele Dinge,The teacher explains many things
+147,17,Am Nachmittag gehen sie in den Park,In the afternoon they go to the park
+148,17,Sie machen ein Picknick auf der Wiese,They have a picnic on the meadow
+149,17,Am Abend schlafen sie in einer Jugendherberge,In the evening they sleep in a youth hostel
+150,17,Die Klassenfahrt macht allen viel Spaß,The class trip is a lot of fun for everyone
+151,18,Jonas bekommt zum Geburtstag ein neues Fahrrad,Jonas gets a new bicycle for his birthday
+152,18,Es ist rot und sehr modern,It is red and very modern
+153,18,Am Morgen probiert er es sofort aus,In the morning he tries it out immediately
+154,18,Er fährt durch die Straßen seiner Stadt,He rides through the streets of his city
+155,18,Das Fahrrad hat sieben Gänge,The bicycle has seven gears
+156,18,Jonas testet die Bremsen,Jonas tests the brakes
+157,18,Er fährt auch einen kleinen Hügel hinauf,He also rides up a small hill
+158,18,Oben macht er eine kurze Pause,At the top he takes a short break
+159,18,Dann fährt er schnell wieder hinunter,Then he rides quickly back down
+160,18,Am Abend erzählt er stolz seinen Eltern von der Fahrt,In the evening he proudly tells his parents about the ride
+161,19,Die Schule organisiert ein Theaterstück,The school organizes a play
+162,19,Viele Schüler machen mit,Many students take part
+163,19,Anna spielt die Hauptrolle,Anna plays the main role
+164,19,Sie übt jeden Tag ihren Text,She practices her lines every day
+165,19,Die Lehrer helfen bei den Kostümen,The teachers help with the costumes
+166,19,Am Abend kommen viele Eltern,In the evening many parents come
+167,19,Das Stück beginnt pünktlich,The play starts on time
+168,19,Die Schüler spielen sehr gut,The students act very well
+169,19,Das Publikum klatscht laut,The audience claps loudly
+170,19,Nach dem Stück gibt es viel Applaus,After the play there is a lot of applause
+171,20,Martin beginnt sein erstes Praktikum in einem Büro,Martin starts his first internship in an office
+172,20,Am ersten Tag ist er sehr nervös,On the first day he is very nervous
+173,20,Sein Chef erklärt ihm die Aufgaben,His boss explains the tasks to him
+174,20,Martin soll E-Mails beantworten und Dokumente sortieren,Martin has to answer emails and sort documents
+175,20,Er arbeitet zusammen mit anderen Praktikanten,He works together with other interns
+176,20,Manchmal ist die Arbeit langweilig,Sometimes the work is boring
+177,20,Doch er lernt viel über Organisation,But he learns a lot about organization
+178,20,Am dritten Tag darf er an einer Besprechung teilnehmen,On the third day he is allowed to join a meeting
+179,20,Dort hört er viele neue Fachbegriffe,There he hears many new technical terms
+180,20,Am Ende der Woche fühlt er sich sicherer,At the end of the week he feels more confident
+181,21,Laura fährt mit dem Zug nach Berlin,Laura travels to Berlin by train
+182,21,Die Fahrt dauert fast sechs Stunden,The journey takes almost six hours
+183,21,Im Zug liest sie ein spannendes Buch,On the train she reads an exciting book
+184,21,In Berlin angekommen, sucht sie zuerst ihr Hotel,Arriving in Berlin, she first looks for her hotel
+185,21,Das Hotel liegt in der Nähe des Alexanderplatzes,The hotel is near Alexanderplatz
+186,21,Am nächsten Tag besucht sie das Brandenburger Tor,The next day she visits the Brandenburg Gate
+187,21,Sie macht viele Fotos von den Sehenswürdigkeiten,She takes many photos of the sights
+188,21,Am Abend geht sie in ein kleines Restaurant,In the evening she goes to a small restaurant
+189,21,Dort probiert sie typische Berliner Spezialitäten,There she tries typical Berlin specialties
+190,21,Nach drei Tagen fährt sie zufrieden nach Hause,After three days she travels home satisfied
+191,22,Thomas hat eine neue Arbeitsstelle in einer Firma,Thomas has a new job in a company
+192,22,Am ersten Tag lernt er seine Kollegen kennen,On the first day he meets his colleagues
+193,22,Die Kollegen sind freundlich und hilfsbereit,The colleagues are friendly and helpful
+194,22,Sein Chef erklärt ihm die Projekte,His boss explains the projects to him
+195,22,Thomas arbeitet am Computer und schreibt Berichte,Thomas works on the computer and writes reports
+196,22,Manchmal muss er auch telefonieren,Sometimes he also has to make phone calls
+197,22,Die Arbeit ist anspruchsvoll aber interessant,The work is demanding but interesting
+198,22,Nach einer Woche fühlt er sich wohl,After a week he feels comfortable
+199,22,Er freut sich auf neue Erfahrungen,He looks forward to new experiences
+200,22,Thomas denkt, dass er viel lernen wird,Thomas thinks that he will learn a lot
+201,23,Eine Gruppe Touristen nimmt an einer Stadtführung teil,A group of tourists joins a city tour
+202,23,Der Guide erzählt spannende Geschichten über die Stadt,The guide tells exciting stories about the city
+203,23,Sie besuchen alte Kirchen und moderne Gebäude,They visit old churches and modern buildings
+204,23,Die Touristen machen viele Fotos,The tourists take many photos
+205,23,Manche stellen Fragen über die Geschichte,Some ask questions about the history
+206,23,Der Guide erklärt die Bedeutung der Denkmäler,The guide explains the meaning of the monuments
+207,23,Am Mittag gibt es eine Pause,At noon there is a break
+208,23,Die Gruppe geht in ein Café,The group goes to a café
+209,23,Dort probieren sie regionale Spezialitäten,There they try regional specialties
+210,23,Am Ende bedanken sich alle für die interessante Führung,At the end everyone thanks for the interesting tour
+211,24,Julia nimmt an einem Austauschprogramm teil,Julia takes part in an exchange program
+212,24,Sie reist für drei Monate nach Frankreich,She travels to France for three months
+213,24,Dort wohnt sie bei einer Gastfamilie,There she lives with a host family
+214,24,Am Anfang ist alles neu und ungewohnt,At first everything is new and unfamiliar
+215,24,Die Gastfamilie zeigt ihr die Stadt,The host family shows her the city
+216,24,Julia besucht eine französische Schule,Julia attends a French school
+217,24,Sie muss viele neue Wörter lernen,She has to learn many new words
+218,24,Manchmal versteht sie die Lehrer nicht sofort,Sometimes she doesn’t understand the teachers right away
+219,24,Doch ihre Freunde helfen ihr,But her friends help her
+220,24,Am Ende spricht sie viel besser Französisch,At the end she speaks French much better
+221,25,Sarah möchte sich für eine Stelle bewerben,Sarah wants to apply for a job
+222,25,Sie schreibt einen Lebenslauf und ein Anschreiben,She writes a CV and a cover letter
+223,25,Im Anschreiben erklärt sie ihre Erfahrungen,In the cover letter she explains her experiences
+224,25,Sie betont ihre Stärken und Fähigkeiten,She emphasizes her strengths and skills
+225,25,Am nächsten Tag schickt sie die Bewerbung per E-Mail,The next day she sends the application by email
+226,25,Nach einer Woche bekommt sie eine Antwort,After a week she receives a reply
+227,25,Die Firma lädt sie zu einem Vorstellungsgespräch ein,The company invites her to an interview
+228,25,Sarah bereitet sich sorgfältig vor,Sarah prepares carefully
+229,25,Im Gespräch stellt der Chef viele Fragen,In the interview the boss asks many questions
+230,25,Am Ende fühlt sich Sarah zuversichtlich,At the end Sarah feels confident
+231,26,In der Stadt findet jedes Jahr ein Musikfestival statt,Every year a music festival takes place in the city
+232,26,Viele Bands aus verschiedenen Ländern treten auf,Many bands from different countries perform
+233,26,Die Besucher kaufen Tickets im Voraus,The visitors buy tickets in advance
+234,26,Am Eingang werden die Taschen kontrolliert,At the entrance the bags are checked
+235,26,Auf der großen Bühne beginnt das erste Konzert,On the big stage the first concert begins
+236,26,Die Leute tanzen und singen mit,The people dance and sing along
+237,26,Es gibt auch Stände mit Essen und Getränken,There are also stalls with food and drinks
+238,26,Am Nachmittag spielt eine bekannte Band,In the afternoon a famous band plays
+239,26,Am Abend gibt es ein Feuerwerk,In the evening there is a fireworks display
+240,26,Das Festival endet spät in der Nacht,The festival ends late at night
+241,27,Die Studenten bereiten sich auf eine wichtige Prüfung vor,The students prepare for an important exam
+242,27,Sie lernen viele Stunden in der Bibliothek,They study many hours in the library
+243,27,Manche schreiben Zusammenfassungen,Some write summaries
+244,27,Andere üben mit alten Prüfungsfragen,Others practice with old exam questions
+245,27,Am Abend sind alle müde,In the evening everyone is tired
+246,27,Am Prüfungstag sind sie nervös,On the exam day they are nervous
+247,27,Der Lehrer verteilt die Aufgaben,The teacher hands out the tasks
+248,27,Die Studenten schreiben konzentriert,The students write with concentration
+249,27,Nach zwei Stunden geben sie die Blätter ab,After two hours they hand in the papers
+250,27,Alle hoffen auf ein gutes Ergebnis,Everyone hopes for a good result
+251,28,Die Schüler planen eine Umweltaktion,The students plan an environmental campaign
+252,28,Sie wollen den Park von Müll befreien,They want to clean the park from trash
+253,28,Am Samstag treffen sie sich früh,On Saturday they meet early
+254,28,Jeder bringt Handschuhe und Müllsäcke mit,Everyone brings gloves and trash bags
+255,28,Sie sammeln Plastikflaschen und Papier,They collect plastic bottles and paper
+256,28,Manche finden sogar alte Schuhe,Some even find old shoes
+257,28,Nach zwei Stunden ist der Park sauber,After two hours the park is clean
+258,28,Die Schüler hängen Plakate über Recycling auf,The students put up posters about recycling
+259,28,Viele Passanten loben ihre Arbeit,Many passersby praise their work
+260,28,Am Ende sind alle stolz auf die Aktion,At the end everyone is proud of the campaign
+261,29,Am Sonntag findet ein wichtiges Fußballspiel statt,On Sunday an important football match takes place
+262,29,Die Mannschaft von Karim spielt gegen die Nachbarstadt,Karim’s team plays against the neighboring town
+263,29,Viele Zuschauer kommen ins Stadion,Many spectators come to the stadium
+264,29,Die Spieler wärmen sich vor dem Spiel auf,The players warm up before the match
+265,29,Der Schiedsrichter pfeift das Spiel an,The referee starts the game
+266,29,Karim passt den Ball zu seinem Freund Ali,Karim passes the ball to his friend Ali
+267,29,Ali schießt auf das Tor,Ali shoots at the goal
+268,29,Der Torwart hält den Ball,The goalkeeper saves the ball
+269,29,In der zweiten Halbzeit schießt Karim ein Tor,In the second half Karim scores a goal
+270,29,Am Ende gewinnt seine Mannschaft mit 2 zu 1,At the end his team wins 2 to 1
+271,30,In der Universität findet eine Debatte über soziale Medien statt,At the university a debate about social media takes place
+272,30,Die Studenten diskutieren über Vorteile und Risiken,The students discuss advantages and risks
+273,30,Einige betonen die Möglichkeit, schnell Informationen zu teilen,Some emphasize the possibility of sharing information quickly
+274,30,Andere kritisieren die Gefahr von Fake News,Others criticize the danger of fake news
+275,30,Eine Studentin erklärt, dass soziale Medien politische Bewegungen stärken können,A student explains that social media can strengthen political movements
+276,30,Ein Kommilitone meint, dass sie auch Isolation fördern,A fellow student argues that they also promote isolation
+277,30,Die Diskussion wird lebhaft und manchmal emotional,The discussion becomes lively and sometimes emotional
+278,30,Der Professor fordert die Studenten auf, Beweise zu nennen,The professor asks the students to provide evidence
+279,30,Am Ende erkennen viele, dass soziale Medien komplexe Auswirkungen haben,In the end many realize that social media has complex effects
+280,30,Die Debatte zeigt, wie wichtig kritisches Denken ist,The debate shows how important critical thinking is
+281,31,In Genf findet eine internationale Klimakonferenz statt,An international climate conference takes place in Geneva
+282,31,Vertreter aus über fünfzig Ländern reisen an,Delegates from more than fifty countries arrive
+283,31,Die Hauptthemen sind erneuerbare Energien und CO2-Reduktion,The main topics are renewable energy and CO2 reduction
+284,31,Ein Wissenschaftler präsentiert neue Daten über den Temperaturanstieg,A scientist presents new data on rising temperatures
+285,31,Mehrere Politiker fordern strengere Gesetze zum Umweltschutz,Several politicians demand stricter environmental laws
+286,31,Einige Länder betonen die wirtschaftlichen Herausforderungen,Some countries emphasize the economic challenges
+287,31,Die Diskussionen sind intensiv und dauern bis spät in die Nacht,The discussions are intense and last until late at night
+288,31,Am zweiten Tag wird ein gemeinsames Abkommen vorgeschlagen,On the second day a joint agreement is proposed
+289,31,Die Delegierten verhandeln über konkrete Maßnahmen,The delegates negotiate concrete measures
+290,31,Am Ende einigen sich viele Staaten auf verbindliche Ziele,In the end many states agree on binding targets
+291,32,In einer Großstadt entstehen immer mehr Technologie-Startups,In a big city more and more technology startups are emerging
+292,32,Viele junge Gründer entwickeln innovative Ideen,Many young founders develop innovative ideas
+293,32,Ein Team arbeitet an einer App für nachhaltige Mobilität,A team is working on an app for sustainable mobility
+294,32,Ein anderes Startup entwickelt Software für künstliche Intelligenz,Another startup develops software for artificial intelligence
+295,32,Die Gründer müssen Investoren überzeugen,The founders have to convince investors
+296,32,Manche präsentieren ihre Projekte auf internationalen Messen,Some present their projects at international fairs
+297,32,Die Konkurrenz ist groß und der Druck hoch,The competition is strong and the pressure high
+298,32,Trotzdem entstehen kreative Lösungen für aktuelle Probleme,Nevertheless creative solutions for current problems emerge
+299,32,Einige Startups schaffen es, schnell zu wachsen,Some startups manage to grow quickly
+300,32,Andere scheitern, doch die Erfahrung bleibt wertvoll,Others fail, but the experience remains valuable
+301,33,In Wien versammeln sich Experten zu einer Menschenrechtskonferenz,In Vienna experts gather for a human rights conference
+302,33,Juristen, Aktivisten und Politiker nehmen daran teil,Lawyers, activists and politicians participate
+303,33,Die Hauptthemen sind Pressefreiheit und Schutz von Minderheiten,The main topics are freedom of the press and protection of minorities
+304,33,Eine Anwältin berichtet über Fälle von Zensur,A lawyer reports on cases of censorship
+305,33,Ein Aktivist schildert die Lage von Flüchtlingen,An activist describes the situation of refugees
+306,33,Die Diskussionen sind kontrovers und teilweise hitzig,The discussions are controversial and partly heated
+307,33,Einige Teilnehmer fordern internationale Sanktionen,Some participants demand international sanctions
+308,33,Andere plädieren für diplomatische Lösungen,Others argue for diplomatic solutions
+309,33,Am Ende wird eine Resolution verabschiedet,In the end a resolution is adopted
+310,33,Die Konferenz verdeutlicht die Bedeutung globaler Zusammenarbeit,The conference highlights the importance of global cooperation
+311,34,Ein Forscherteam arbeitet seit Jahren an einem komplexen Projekt,A research team has been working for years on a complex project
+312,34,Sie untersuchen die Wirkung neuer Medikamente gegen seltene Krankheiten,They study the effects of new drugs against rare diseases
+313,34,Die Experimente erfordern präzise Messungen und lange Analysen,The experiments require precise measurements and long analyses
+314,34,Ein Durchbruch gelingt, als ein unerwartetes Ergebnis auftritt,A breakthrough occurs when an unexpected result appears
+315,34,Die Forscher überprüfen sorgfältig ihre Daten,The researchers carefully review their data
+316,34,Nach mehreren Tests bestätigen sie die Entdeckung,After several tests they confirm the discovery
+317,34,Die Nachricht verbreitet sich schnell in wissenschaftlichen Kreisen,The news spreads quickly in scientific circles
+318,34,Ein internationales Journal veröffentlicht die Studie,An international journal publishes the study
+319,34,Die Entdeckung könnte die Behandlung vieler Patienten verbessern,The discovery could improve the treatment of many patients
+320,34,Das Team erhält Anerkennung für seine Ausdauer und Genauigkeit,The team receives recognition for its perseverance and accuracy
+321,35,Im Museum wird eine große Ausstellung eröffnet,A major exhibition is opened at the museum
+322,35,Künstler aus verschiedenen Ländern präsentieren ihre Werke,Artists from different countries present their works
+323,35,Die Themen reichen von moderner Malerei bis zu digitaler Kunst,The themes range from modern painting to digital art
+324,35,Ein Kurator erklärt die Bedeutung der einzelnen Installationen,A curator explains the meaning of each installation
+325,35,Viele Besucher diskutieren über die Interpretation der Bilder,Many visitors discuss the interpretation of the paintings
+326,35,Einige Werke provozieren starke Emotionen,Some works provoke strong emotions
+327,35,Andere regen zum Nachdenken über gesellschaftliche Fragen an,Others encourage reflection on social issues
+328,35,Die Ausstellung wird von Medien ausführlich begleitet,The exhibition is extensively covered by the media
+329,35,Am Wochenende finden auch Workshops für junge Künstler statt,On the weekend workshops for young artists also take place
+330,35,Die Veranstaltung zeigt die Vielfalt und Dynamik der Kultur,The event demonstrates the diversity and dynamism of culture
+331,36,In einem Land entwickelt sich eine schwere wirtschaftliche Krise,In a country a severe economic crisis develops
+332,36,Die Arbeitslosigkeit steigt und viele Firmen müssen schließen,Unemployment rises and many companies have to close
+333,36,Die Regierung versucht mit Notprogrammen gegenzusteuern,The government tries to counteract with emergency programs
+334,36,Ein Ökonom erklärt die Ursachen der Rezession,An economist explains the causes of the recession
+335,36,Hohe Schulden und sinkende Nachfrage verschärfen die Lage,High debt and declining demand worsen the situation
+336,36,Viele Familien kämpfen mit steigenden Preisen,Many families struggle with rising prices
+337,36,Die Medien berichten täglich über neue Entwicklungen,The media report daily on new developments
+338,36,Internationale Organisationen bieten finanzielle Unterstützung an,International organizations offer financial support
+339,36,Die Krise führt auch zu politischen Spannungen,The crisis also leads to political tensions
+340,36,Trotz der Schwierigkeiten hoffen die Menschen auf eine Erholung,T Despite the difficulties people hope for recovery
+341,37,In Berlin findet eine internationale Konferenz über Raumfahrt statt,An international conference on space travel takes place in Berlin
+342,37,Wissenschaftler und Ingenieure präsentieren ihre neuesten Projekte,Scientists and engineers present their latest projects
+343,37,Ein Team berichtet über Pläne für eine bemannte Marsmission,A team reports on plans for a manned mission to Mars
+344,37,Andere Forscher erklären die Chancen von Satelliten für die Klimaforschung,Other researchers explain the opportunities of satellites for climate research
+345,37,Die Diskussion dreht sich auch um die Kosten solcher Missionen,The discussion also revolves around the costs of such missions
+346,37,Ein Ingenieur warnt vor technischen Risiken,An engineer warns about technical risks
+347,37,Ein Astronaut schildert seine Erfahrungen im All,An astronaut describes his experiences in space
+348,37,Die Teilnehmer debattieren über internationale Zusammenarbeit,The participants debate international cooperation
+349,37,Am Ende wird ein gemeinsames Forschungsprogramm beschlossen,In the end a joint research program is decided
+350,37,Die Konferenz zeigt die Bedeutung von Innovation und Kooperation,The conference highlights the importance of innovation and cooperation
+351,38,In einer Buchhandlung findet eine öffentliche Diskussion statt,In a bookstore a public discussion takes place
+352,38,Autoren und Leser sprechen über moderne Literatur,Authors and readers talk about modern literature
+353,38,Ein Schriftsteller erklärt die gesellschaftliche Verantwortung von Literatur,An author explains the social responsibility of literature
+354,38,Eine Kritikerin betont die Bedeutung von Sprache und Stil,A critic emphasizes the importance of language and style
+355,38,Die Teilnehmer vergleichen klassische Werke mit zeitgenössischen Romanen,The participants compare classical works with contemporary novels
+356,38,Ein Student fragt nach dem Einfluss digitaler Medien,One student asks about the influence of digital media
+357,38,Die Diskussion wird leidenschaftlich und intellektuell anspruchsvoll,The discussion becomes passionate and intellectually demanding
+358,38,Einige argumentieren, dass Literatur politische Veränderungen anstoßen kann,Some argue that literature can initiate political change
+359,38,Andere sehen sie vor allem als persönliche Inspiration,Others see it primarily as personal inspiration
+360,38,Am Ende bleibt die Vielfalt der Perspektiven bestehen,In the end the diversity of perspectives remains
+361,39,Ein internationales Team untersucht neue Methoden zur Krebsbehandlung,An international team is researching new methods for cancer treatment
+362,39,Die Forscher kombinieren Genanalyse mit moderner Immuntherapie,The researchers combine gene analysis with modern immunotherapy
+363,39,Die Studien erfordern komplexe Laborexperimente und klinische Tests,The studies require complex laboratory experiments and clinical trials
+364,39,Ein Arzt berichtet über erste positive Ergebnisse bei Patienten,A doctor reports on initial positive results in patients
+365,39,Die Finanzierung durch staatliche und private Institutionen ist entscheidend,Funding from public and private institutions is crucial
+366,39,Einige Experten warnen vor ethischen Fragen bei der Genmanipulation,Some experts warn about ethical questions in genetic manipulation
+367,39,Andere betonen die Chancen für eine personalisierte Medizin,Others emphasize the opportunities for personalized medicine
+368,39,Die Ergebnisse werden auf einem Kongress vorgestellt,The results are presented at a congress
+369,39,Die Forschung könnte die Behandlungsmöglichkeiten weltweit verändern,The research could change treatment options worldwide
+370,39,Das Projekt zeigt die Verbindung von Wissenschaft, Ethik und Gesellschaft,The project demonstrates the connection between science, ethics, and society
+371,40,In einem Seminarraum diskutieren Philosophiestudenten über den Begriff der Freiheit,In a seminar room philosophy students discuss the concept of freedom
+372,40,Ein Teilnehmer argumentiert, dass Freiheit vor allem die Abwesenheit äußerer Zwänge bedeutet,One participant argues that freedom primarily means the absence of external constraints
+373,40,Eine andere Studentin betont die Verantwortung, die mit echter Selbstbestimmung verbunden ist,Another student emphasizes the responsibility that comes with genuine self-determination
+374,40,Die Diskussion verlagert sich auf die Frage, ob absolute Freiheit überhaupt existieren kann,The discussion shifts to the question of whether absolute freedom can exist at all
+375,40,Ein Professor verweist auf historische Beispiele, in denen Freiheit durch soziale Normen eingeschränkt wurde,A professor refers to historical examples where freedom was limited by social norms
+376,40,Einige Studenten bringen die Rolle moderner Technologien ins Spiel,Some students bring the role of modern technologies into play
+377,40,Sie fragen, ob digitale Überwachung die individuelle Autonomie bedroht,They ask whether digital surveillance threatens individual autonomy
+378,40,Die Debatte wird zunehmend komplex und erfordert präzise Definitionen,The debate becomes increasingly complex and requires precise definitions
+379,40,Am Ende erkennen die Teilnehmer, dass Freiheit ein vielschichtiger und dynamischer Begriff ist,In the end the participants realize that freedom is a multifaceted and dynamic concept
+380,40,Die Diskussion verdeutlicht die Bedeutung kritischer Reflexion in einer demokratischen Gesellschaft,The discussion highlights the importance of critical reflection in a democratic society
+381,41,Ein Thinktank veröffentlicht eine umfassende Studie über geopolitische Entwicklungen,A think tank publishes a comprehensive study on geopolitical developments
+382,41,Die Autoren untersuchen die Machtverschiebungen zwischen etablierten und aufstrebenden Staaten,The authors examine the shifts of power between established and emerging states
+383,41,Besonderes Augenmerk liegt auf den wirtschaftlichen Abhängigkeiten durch Energiehandel,Special attention is given to economic dependencies through energy trade
+384,41,Ein Analyst beschreibt die strategische Bedeutung maritimer Handelsrouten,An analyst describes the strategic importance of maritime trade routes
+385,41,Die Studie diskutiert auch die Rolle internationaler Organisationen,The study also discusses the role of international organizations
+386,41,Einige Experten warnen vor zunehmenden regionalen Konflikten,Some experts warn about increasing regional conflicts
+387,41,Andere sehen Chancen für neue Formen multilateraler Kooperation,Others see opportunities for new forms of multilateral cooperation
+388,41,Die Analyse betont die Komplexität globaler Machtstrukturen,The analysis emphasizes the complexity of global power structures
+389,41,Am Ende wird deutlich, dass geopolitische Stabilität von vielen Faktoren abhängt,In the end it becomes clear that geopolitical stability depends on many factors
+390,41,Die Studie fordert langfristige Strategien statt kurzfristiger Reaktionen,The study calls for long-term strategies instead of short-term reactions
+391,42,In einem Symposium diskutieren Experten über die ethischen Grenzen künstlicher Intelligenz,At a symposium experts discuss the ethical boundaries of artificial intelligence
+392,42,Ein Informatiker warnt vor der Gefahr algorithmischer Diskriminierung,A computer scientist warns about the danger of algorithmic discrimination
+393,42,Eine Philosophin betont die Verantwortung der Entwickler gegenüber der Gesellschaft,A philosopher emphasizes the responsibility of developers toward society
+394,42,Die Diskussion dreht sich um die Frage, ob Maschinen moralische Entscheidungen treffen dürfen,The debate revolves around the question of whether machines should be allowed to make moral decisions
+395,42,Ein Jurist verweist auf die Notwendigkeit klarer rechtlicher Rahmenbedingungen,A lawyer points out the necessity of clear legal frameworks
+396,42,Einige Teilnehmer sehen in KI eine Chance für mehr Effizienz im Gesundheitswesen,Some participants see AI as an opportunity for greater efficiency in healthcare
+397,42,Andere befürchten eine zunehmende Abhängigkeit von automatisierten Systemen,Others fear an increasing dependence on automated systems
+398,42,Die Debatte wird komplex, da technische, soziale und philosophische Aspekte miteinander verflochten sind,The debate becomes complex as technical, social, and philosophical aspects are intertwined
+399,42,Am Ende bleibt die Frage offen, wie viel Autonomie Maschinen erhalten sollen,In the end the question remains open as to how much autonomy machines should be given
+400,42,Das Symposium verdeutlicht die Dringlichkeit einer interdisziplinären Reflexion,The symposium highlights the urgency of interdisciplinary reflection
+401,43,Ein internationales Forum widmet sich den Folgen der Globalisierung,An international forum is dedicated to the consequences of globalization
+402,43,Ökonomen analysieren die komplexen Verflechtungen der Weltmärkte,Economists analyze the complex interconnections of global markets
+403,43,Ein Redner betont die Vorteile für Handel und Innovation,A speaker emphasizes the advantages for trade and innovation
+404,43,Andere weisen auf die wachsende soziale Ungleichheit hin,Others point out the growing social inequality
+405,43,Die Diskussion behandelt auch die Rolle transnationaler Konzerne,The discussion also addresses the role of transnational corporations
+406,43,Ein Experte erklärt die Abhängigkeit kleiner Staaten von globalen Finanzströmen,An expert explains the dependence of small states on global financial flows
+407,43,Die Teilnehmer debattieren über faire Handelsabkommen und nachhaltige Entwicklung,The participants debate fair trade agreements and sustainable development
+408,43,Einige sehen Globalisierung als Motor kultureller Vielfalt,Some see globalization as a driver of cultural diversity
+409,43,Andere kritisieren den Verlust lokaler Traditionen und Identitäten,Others criticize the loss of local traditions and identities
+410,43,Am Ende wird deutlich, dass Globalisierung Chancen und Risiken gleichermaßen birgt,In the end it becomes clear that globalization carries both opportunities and risks
+411,44,In einer renommierten Universität diskutieren Wissenschaftler über bioethische Fragen,At a prestigious university scientists discuss bioethical questions
+412,44,Ein Genetiker stellt neue Methoden der Genbearbeitung vor,A geneticist presents new methods of gene editing
+413,44,Eine Ethikerin warnt vor den gesellschaftlichen Folgen solcher Eingriffe,An ethicist warns about the societal consequences of such interventions
+414,44,Die Diskussion dreht sich um die Grenze zwischen medizinischem Fortschritt und moralischer Verantwortung,The debate revolves around the boundary between medical progress and moral responsibility
+415,44,Ein Jurist verweist auf internationale Abkommen zur Regulierung biotechnologischer Verfahren,A lawyer refers to international agreements regulating biotechnological procedures
+416,44,Einige Teilnehmer sehen in der Forschung eine Chance zur Heilung schwerer Krankheiten,Some participants see in the research an opportunity to cure serious diseases
+417,44,Andere befürchten eine Kommerzialisierung des menschlichen Lebens,Others fear a commercialization of human life
+418,44,Die Debatte wird komplex, da wissenschaftliche, rechtliche und ethische Aspekte eng miteinander verbunden sind,The debate becomes complex as scientific, legal, and ethical aspects are closely intertwined
+419,44,Am Ende bleibt die Frage offen, wie weit die Gesellschaft bereit ist zu gehen,In the end the question remains open as to how far society is willing to go
+420,44,Die Diskussion verdeutlicht die Notwendigkeit eines verantwortungsvollen Umgangs mit neuen Technologien,The discussion highlights the necessity of a responsible approach to new technologies
+421,45,In einem Oberseminar diskutieren Studierende über verschiedene Theorien der Gerechtigkeit,In an advanced seminar students discuss different theories of justice
+422,45,Ein Teilnehmer verweist auf John Rawls und sein Konzept des Schleiers des Nichtwissens,One participant refers to John Rawls and his concept of the veil of ignorance
+423,45,Eine andere Studentin stellt die utilitaristische Perspektive gegenüber,Another student contrasts the utilitarian perspective
+424,45,Die Diskussion dreht sich um die Frage, ob Gleichheit oder Effizienz Vorrang haben sollte,The debate revolves around whether equality or efficiency should take precedence
+425,45,Ein Professor betont die Bedeutung historischer Kontexte für die Entwicklung politischer Theorien,A professor emphasizes the importance of historical contexts for the development of political theories
+426,45,Einige Studierende argumentieren, dass Gerechtigkeit ohne soziale Teilhabe nicht möglich sei,Some students argue that justice is not possible without social participation
+427,45,Andere sehen individuelle Freiheit als oberste Priorität,Others see individual freedom as the highest priority
+428,45,Die Debatte wird zunehmend abstrakt und erfordert präzise Argumentation,The debate becomes increasingly abstract and requires precise argumentation
+429,45,Am Ende erkennen die Teilnehmer, dass Gerechtigkeit ein normatives und vielschichtiges Konzept ist,In the end the participants realize that justice is a normative and multifaceted concept
+430,45,Das Seminar verdeutlicht die Relevanz politischer Philosophie für aktuelle gesellschaftliche Fragen,The seminar highlights the relevance of political philosophy for current social issues
+431,46,In einem internationalen Forum diskutieren Experten über kulturelle Identität,At an international forum experts discuss cultural identity
+432,46,Ein Anthropologe erklärt die historische Entwicklung kollektiver Zugehörigkeit,An anthropologist explains the historical development of collective belonging
+433,46,Eine Soziologin betont die Bedeutung von Sprache als Träger kultureller Identität,A sociologist emphasizes the importance of language as a carrier of cultural identity
+434,46,Die Diskussion behandelt auch die Auswirkungen von Migration und Globalisierung,The discussion also addresses the effects of migration and globalization
+435,46,Ein Teilnehmer warnt vor der Gefahr kultureller Homogenisierung,One participant warns about the danger of cultural homogenization
+436,46,Andere sehen in hybriden Identitäten eine Chance für kreative Vielfalt,Others see in hybrid identities an opportunity for creative diversity
+437,46,Die Debatte wird komplex, da politische, soziale und psychologische Aspekte ineinandergreifen,The debate becomes complex as political, social, and psychological aspects interlock
+438,46,Ein Philosoph verweist auf die Spannung zwischen Tradition und Moderne,A philosopher points to the tension between tradition and modernity
+439,46,Am Ende bleibt die Frage offen, wie Identität in pluralistischen Gesellschaften definiert werden soll,In the end the question remains open as to how identity should be defined in pluralistic societies
+440,46,Das Forum verdeutlicht die Notwendigkeit eines respektvollen Umgangs mit kultureller Vielfalt,The forum highlights the necessity of respectful engagement with cultural diversity
+441,47,Auf einer internationalen Konferenz diskutieren Experten über nachhaltige Zukunftstechnologien,At an international conference experts discuss sustainable future technologies
+442,47,Ein Ingenieur präsentiert Konzepte für emissionsfreie Energieversorgung,An engineer presents concepts for emission-free energy supply
+443,47,Eine Umweltwissenschaftlerin betont die Notwendigkeit langfristiger ökologischer Strategien,An environmental scientist emphasizes the necessity of long-term ecological strategies
+444,47,Die Diskussion behandelt auch die Rolle künstlicher Intelligenz bei der Optimierung von Ressourcen,The discussion also addresses the role of artificial intelligence in optimizing resources
+445,47,Ein Teilnehmer warnt vor den sozialen Folgen einer technokratischen Gesellschaft,One participant warns about the social consequences of a technocratic society
+446,47,Andere sehen in innovativen Technologien eine Chance für globale Gerechtigkeit,Others see in innovative technologies an opportunity for global justice
+447,47,Die Debatte wird komplex, da ökologische, ökonomische und ethische Aspekte miteinander verflochten sind,The debate becomes complex as ecological, economic, and ethical aspects are intertwined
+448,47,Ein Philosoph verweist auf die Verantwortung gegenüber kommenden Generationen,A philosopher points to the responsibility toward future generations
+449,47,Am Ende bleibt die Frage offen, wie technologische Innovation mit Nachhaltigkeit vereinbar ist,In the end the question remains open how technological innovation can be reconciled with sustainability
+450,47,Die Konferenz verdeutlicht die Dringlichkeit eines interdisziplinären Ansatzes,The conference highlights the urgency of an interdisciplinary approach
+451,48,In einem Parlamentsgebäude diskutieren Politiker und Journalisten über die Rolle der Medien,In a parliament building politicians and journalists discuss the role of the media
+452,48,Ein Abgeordneter warnt vor der Gefahr populistischer Manipulation durch soziale Netzwerke,A member of parliament warns about the danger of populist manipulation through social networks
+453,48,Eine Journalistin betont die Bedeutung unabhängiger Berichterstattung für eine funktionierende Demokratie,A journalist emphasizes the importance of independent reporting for a functioning democracy
+454,48,Die Diskussion behandelt auch die Verantwortung der Medien gegenüber der Öffentlichkeit,The discussion also addresses the responsibility of the media toward the public
+455,48,Ein Politikwissenschaftler verweist auf historische Beispiele von Pressefreiheit und Zensur,A political scientist refers to historical examples of press freedom and censorship
+456,48,Einige Teilnehmer sehen digitale Plattformen als Chance für mehr Bürgerbeteiligung,Some participants see digital platforms as an opportunity for greater citizen participation
+457,48,Andere kritisieren die Verbreitung von Desinformation und Fake News,Others criticize the spread of disinformation and fake news
+458,48,Die Debatte wird komplex, da politische, technologische und gesellschaftliche Aspekte miteinander verflochten sind,The debate becomes complex as political, technological, and societal aspects are intertwined
+459,48,Am Ende bleibt die Frage offen, wie Medienfreiheit mit Verantwortung vereinbar ist,In the end the question remains open how media freedom can be reconciled with responsibility
+460,48,Die Diskussion verdeutlicht die zentrale Rolle der Medien für demokratische Stabilität,The discussion highlights the central role of the media for democratic stability
+461,49,In einem internationalen Sicherheitsrat diskutieren Diplomaten über globale Bedrohungen,In an international security council diplomats discuss global threats
+462,49,Ein Vertreter warnt vor der Zunahme hybrider Kriegsführung,A representative warns about the rise of hybrid warfare
+463,49,Eine Expertin betont die Bedeutung von Cyberabwehrstrategien,An expert emphasizes the importance of cyber defense strategies
+464,49,Die Diskussion behandelt auch die Rolle nuklearer Abschreckung,The discussion also addresses the role of nuclear deterrence
+465,49,Ein Militäranalyst verweist auf die Verwundbarkeit kritischer Infrastrukturen,A military analyst points to the vulnerability of critical infrastructures
+466,49,Einige Teilnehmer sehen multilaterale Kooperation als Schlüssel zur Stabilität,Some participants see multilateral cooperation as the key to stability
+467,49,Andere kritisieren die Dominanz einzelner Großmächte,Others criticize the dominance of individual great powers
+468,49,Die Debatte wird komplex, da geopolitische, technologische und militärische Aspekte eng miteinander verflochten sind,The debate becomes complex as geopolitical, technological, and military aspects are closely intertwined
+469,49,Am Ende bleibt die Frage offen, wie Sicherheit in einer multipolaren Welt gewährleistet werden kann,In the end the question remains open how security can be ensured in a multipolar world
+470,49,Das Treffen verdeutlicht die Dringlichkeit globaler Zusammenarbeit angesichts neuer Bedrohungen,The meeting highlights the urgency of global cooperation in the face of new threats

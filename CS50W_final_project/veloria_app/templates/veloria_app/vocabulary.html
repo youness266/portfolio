@@ -1,0 +1,45 @@
+{% extends "veloria_app/layout.html" %}
+{% load static %}
+{% block content %}
+<!-- Background Image -->
+  <div class="fixed inset-0 -z-10 bg-cover bg-center">
+    <img src="{% static 'veloria_app/images/bg2.jpg' %}" 
+         alt="Vocabulary Background"
+         class="w-full h-full object-cover">
+  </div>
+<div class="flex flex-col items-center space-y-6 p-8  min-h-screen">
+  
+ 
+  <div class="mt-24">
+      <h1 class="text-3xl font-serif text-[#ffffff] mb-4">📖 Your Vocabulary Book</h1>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {% for item in sentences %}
+      <!-- Flashcard styled like a book page -->
+      <div class="relative w-72 h-48 perspective">
+        <div class="flashcard transition-transform duration-700 transform-style-preserve-3d hover:rotate-y-180">
+          
+          <!-- Front: sentence -->
+          <div class="absolute w-full h-full bg-[#fffaf0] border-2 border-[#d4c4a8] rounded-lg shadow-lg flex items-center justify-center p-4">
+            <p class="font-serif text-lg text-[#3b2f2f] text-center">
+              {{ item.sentence }}
+            </p>
+          </div>
+
+          <!-- Back: translation -->
+          <div class="absolute w-full h-full bg-[#fefcf9] border-2 border-[#d4c4a8] rounded-lg shadow-lg flex items-center justify-center p-4 back">
+            <p class="font-handwriting text-lg text-[#2f3b2f] text-center">
+              {{ item.translation }}
+            </p>
+          </div>
+        </div>
+      </div>
+    {% empty %}
+      <p class="text-gray-600 italic">No vocabulary saved yet. Start adding sentences to your book!</p>
+    {% endfor %}
+  </div>
+  
+</div>
+
+{% endblock %}

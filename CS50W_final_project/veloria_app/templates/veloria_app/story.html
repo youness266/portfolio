@@ -1,0 +1,44 @@
+{% extends "veloria_app/layout.html" %}
+{% load static %}
+{% block title %} {{ story.title }} {% endblock %}
+
+{% block content %}
+<div class="fixed inset-0 -z-10 bg-cover bg-center">
+    <img src="{% static 'veloria_app/images/bg4.jpg' %}" 
+         alt="Story Background"
+         class="w-full h-full object-cover">
+  </div>
+<div class="story-container">
+  <div class="mt-24">
+      <h1 class="story-title">{{ story.title }}</h1>
+  </div>
+
+  <!-- Translation block -->
+  <div id="translation-block" class="translation-box" style="display:none;">
+      <div class="translation-content">
+          <p id="translation-text"></p>
+      </div>
+      <div class="translation-actions">
+          <button id="btn-close" type="button">✖</button>
+          <form id="form-save" method="post">
+              {% csrf_token %}
+              <button id="btn-save" type="button">Save</button>
+          </form>
+        </div>
+    </div>
+
+    <!-- Sentences -->
+  <div class="page-content">
+      {% for item in sentences %}
+          <div class="sentence-wrapper">
+              <p class="sentence" data-translation="{{ item.translation }}" data-id="{{ item.id }}">
+                  {{ item.sentence }}
+              </p>
+          </div>
+      {% empty %}
+           
+      {% endfor %}
+  </div>
+</div>
+{% endblock %}
+
